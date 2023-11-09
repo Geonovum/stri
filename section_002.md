@@ -212,20 +212,34 @@ Visie : structuurvisie
 
 Verklaring bij Tabel 1 en Tabel 2:
 
-<p><span style='display: table-cell; width: 20%;'><i>Bestandstype</i></span>
-<span style='display: table-cell; width: 80%;'>bestandstype van het onderdeel; voor exacte bestandsformaten zie paragraaf <a href='#4036FA61'>4.2</a>;</span></p>
-<p><span style='display: table-cell; width: 20%;'><i>[idn]</i></span>
-<span style='display: table-cell; width: 80%;'>identificatienummer van het ruimtelijk instrument, zie paragraaf <a href='#647D7DA3'>4.1</a>;</span></p>
-<p><span style='display: table-cell; width: 20%;'><i>[xxx]</i></span>
-<span style='display: table-cell; width: 80%;'>tekstuele extensie als onderdeel van de bestandsnaam, zie paragraaf <a href='#4036FA61'>4.2</a>;</span></p>
-<p><span style='display: table-cell; width: 20%;'><i>Multipliciteit</i></span>
-<span style='display: table-cell; width: 10%;'>1</span>
-<span style='display: table-cell; width: 70%;'>het onderdeel komt altijd precies 1 keer voor en is daarmee dus verplicht;</span></p>
-<p><span style='display: table-cell; width: 20%;'></span>
-<span style='display: table-cell; width: 10%;'>0..1</span>
-<span style='display: table-cell; width: 70%;'>het onderdeel komt 0 of 1 keer voor en is dus optioneel;</span></p>
-<p><span style='display: table-cell; width: 20%;'></span>
-<span style='display: table-cell; width: 10%;'>0..*</span>
-<span style='display: table-cell; width: 70%;'>het onderdeel komt 0 of meer keer voor en is dus optioneel.</span></p>
+<div style='display: flex; flex-direction: column;'>
+<div style='display: flex; flex-direction: row'>
+<div style='flex: 0 1 20%'><i>Bestandstype</i></div>
+<div style='flex: 0 1 80%'>bestandstype van het onderdeel; voor exacte bestandsformaten zie paragraaf <a href='#4036FA61'>4.2</a>;</div>
+</div>
+<div style='display: flex; flex-direction: row'>
+<div style='flex: 0 1 20%'><i>[idn]</i></div>
+<div style='flex: 0 1 80%'>identificatienummer van het ruimtelijk instrument, zie paragraaf <a href='#647D7DA3'>4.1</a>;</div>
+</div>
+<div style='display: flex; flex-direction: row'>
+<div style='flex: 0 1 20%'><i>[xxx]</i></div>
+<div style='flex: 0 1 80%'>tekstuele extensie als onderdeel van de bestandsnaam, zie paragraaf <a href='#4036FA61'>4.2</a>;</div>
+</div>
+<div style='display: flex; flex-direction: row'>
+<div style='flex: 0 1 20%'><i>Multipliciteit</i></div>
+<div style='flex: 0 1 10%'>1</div>
+<div style='flex: 0 1 70%'>het onderdeel komt altijd precies 1 keer voor en is daarmee dus verplicht;</div>
+</div>
+<div style='display: flex; flex-direction: row'>
+<div style='flex: 0 1 20%'></div>
+<div style='flex: 0 1 10%'>0..1</div>
+<div style='flex: 0 1 70%'>het onderdeel komt 0 of 1 keer voor en is dus optioneel;</div>
+</div>
+<div style='display: flex; flex-direction: row'>
+<div style='flex: 0 1 20%'></div>
+<div style='flex: 0 1 10%'>0..*</div>
+<div style='flex: 0 1 70%'>het onderdeel komt 0 of meer keer voor en is dus optioneel.</div>
+</div>
+</div>
 
 De in Tabel 1 en Tabel 2 gespecificeerde optionele onderdelen kunnen onder voorwaarde verplicht zijn. In het <a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMRO2012)</a> wordt nader aangegeven wanneer dit het geval is.<br/>
