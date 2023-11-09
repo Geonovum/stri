@@ -10,8 +10,8 @@ NL\.(IMRO\.[0-9]{4}\.[A-Za-z0-9]{1,18}-[A-Za-z0-9]{4}
 
 In Tabel 4 worden de onderdelen van deze reguliere expressie nader verklaard.<br/>
 <table style='width: 100%;'><caption>Tabel 4 Onderdelen van het identificatienummer</caption>
-<colgroup><col id='col1' style='width: 22.58504949368529%;'
-<col id='col2' style='width: 77.41495050631471%;'
+<colgroup><col id='col1' style='width: 22.58504949368529%;'>
+<col id='col2' style='width: 77.41495050631471%;'>
 </colgroup>
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Onderdeel reg. exp.<br/>
 </td>
@@ -64,8 +64,8 @@ Voor ieder bronbestand worden in Tabel 1 en Tabel 2 eisen gesteld aan de bestand
 In Tabel 5 worden de onderdelen van deze reguliere expressie nader verklaard.
 
 <table style='width: 100%;'><caption>Tabel 5 Onderdelen van de bestandsnaam vereisten</caption>
-<colgroup><col id='col1' style='width: 43.73648879280919%;'
-<col id='col2' style='width: 56.26351120719081%;'
+<colgroup><col id='col1' style='width: 43.73648879280919%;'>
+<col id='col2' style='width: 56.26351120719081%;'>
 </colgroup>
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Onderdeel<br/>
 </td>

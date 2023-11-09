@@ -29,9 +29,9 @@ Hoewel Manifest en geleideformulier beide een Signature element kennen, heeft di
 Het Manifest is als volgt opgebouwd:
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 25.860889395667048%;'
-<col id='col2' style='width: 6.465222348916762%;'
-<col id='col3' style='width: 67.67388825541619%;'
+<colgroup><col id='col1' style='width: 25.860889395667048%;'>
+<col id='col2' style='width: 6.465222348916762%;'>
+<col id='col3' style='width: 67.67388825541619%;'>
 </colgroup>
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Klasse
 
@@ -88,9 +88,9 @@ Het Manifest is als volgt opgebouwd:
 Binnen ieder &lt;Dossier&gt; element worden de volgende gegevens opgenomen:
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 25.860889395667048%;'
-<col id='col2' style='width: 6.465222348916762%;'
-<col id='col3' style='width: 67.67388825541619%;'
+<colgroup><col id='col1' style='width: 25.860889395667048%;'>
+<col id='col2' style='width: 6.465222348916762%;'>
+<col id='col3' style='width: 67.67388825541619%;'>
 </colgroup>
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Klasse
 
@@ -144,9 +144,9 @@ Binnen ieder &lt;Dossier&gt; element worden de volgende gegevens opgenomen:
 Bij ieder &lt;Plan&gt; element in het Dossier worden de volgende gegevens over het ruimtelijk instrument opgenomen:
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 25.860889395667048%;'
-<col id='col2' style='width: 6.465222348916762%;'
-<col id='col3' style='width: 67.67388825541619%;'
+<colgroup><col id='col1' style='width: 25.860889395667048%;'>
+<col id='col2' style='width: 6.465222348916762%;'>
+<col id='col3' style='width: 67.67388825541619%;'>
 </colgroup>
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Klasse
 
@@ -199,9 +199,9 @@ De exacte opbouw van het XML Manifest is vastgelegd in een XML Schema dat naast 
 Het geleideformulier is opgebouwd zoals weergegeven met de tabellen in deze paragraaf.
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 25.860889395667048%;'
-<col id='col2' style='width: 6.465222348916762%;'
-<col id='col3' style='width: 67.67388825541619%;'
+<colgroup><col id='col1' style='width: 25.860889395667048%;'>
+<col id='col2' style='width: 6.465222348916762%;'>
+<col id='col3' style='width: 67.67388825541619%;'>
 </colgroup>
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Klasse
 
@@ -258,9 +258,9 @@ Het geleideformulier is opgebouwd zoals weergegeven met de tabellen in deze para
 In het &lt;Plan&gt; element in het Geleideformulier worden de volgende gegevens over het ruimtelijk instrument opgenomen:
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 25.860889395667048%;'
-<col id='col2' style='width: 6.465222348916762%;'
-<col id='col3' style='width: 67.67388825541619%;'
+<colgroup><col id='col1' style='width: 25.860889395667048%;'>
+<col id='col2' style='width: 6.465222348916762%;'>
+<col id='col3' style='width: 67.67388825541619%;'>
 </colgroup>
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Klasse
 
@@ -310,9 +310,9 @@ In het &lt;Plan&gt; element in het Geleideformulier worden de volgende gegevens 
 In het &lt;Eigenschappen&gt; element in het Geleideformulier worden de volgende gegevens over het ruimtelijk instrument opgenomen:
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 25.860889395667048%;'
-<col id='col2' style='width: 6.465222348916762%;'
-<col id='col3' style='width: 67.67388825541619%;'
+<colgroup><col id='col1' style='width: 25.860889395667048%;'>
+<col id='col2' style='width: 6.465222348916762%;'>
+<col id='col3' style='width: 67.67388825541619%;'>
 </colgroup>
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Klasse
 
@@ -384,9 +384,9 @@ De waarde is gelijk aan de status in het IMRO GML bestand.<br/>
 In het &lt;Onderdelen&gt; element in het Geleideformulier wordt de volgende informatie over de beschikbaar gestelde bronbestanden opgenomen:
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 25.860889395667048%;'
-<col id='col2' style='width: 6.465222348916762%;'
-<col id='col3' style='width: 67.67388825541619%;'
+<colgroup><col id='col1' style='width: 25.860889395667048%;'>
+<col id='col2' style='width: 6.465222348916762%;'>
+<col id='col3' style='width: 67.67388825541619%;'>
 </colgroup>
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Klasse
 
@@ -478,9 +478,9 @@ In het &lt;Onderdelen&gt; element in het Geleideformulier wordt de volgende info
 In het &lt;Supplementen&gt; element in het Geleideformulier worden de volgende gegevens over mogelijke supplementen opgenomen:
 
 <table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 25.860889395667048%;'
-<col id='col2' style='width: 6.465222348916762%;'
-<col id='col3' style='width: 67.67388825541619%;'
+<colgroup><col id='col1' style='width: 25.860889395667048%;'>
+<col id='col2' style='width: 6.465222348916762%;'>
+<col id='col3' style='width: 67.67388825541619%;'>
 </colgroup>
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Klasse
 

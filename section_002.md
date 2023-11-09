@@ -14,10 +14,10 @@ Optie 2 : beschikbaar stellen zonder gebruikmaking van IMROPT2012, zie paragraaf
 In deze optie worden er objectgerichte planteksten beschikbaar gesteld conform het <a href='https://docs.geostandaarden.nl/ro/imropt' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMROPT2012)</a>. Dit betekent dat in ieder geval de regels, de toelichting en/of het beleids-/besluitdocument beschikbaar worden gesteld in XML formaat. Bijlagen kunnen ofwel in dit zelfde XML formaat beschikbaar worden gesteld, ofwel in separate bronbestanden. Bij gebruikmaking van objectgerichte planteksten is Tabel 1 van toepassing.
 
 <table style='width: 100%;'><caption>Tabel 1 Bronbestanden indien er WEL gebruik wordt gemaakt van objectgerichte planteksten</caption>
-<colgroup><col id='col1' style='width: 29.51312593963224%;'
-<col id='col2' style='width: 21.31375043367642%;'
-<col id='col3' style='width: 21.302185729154623%;'
-<col id='col4' style='width: 27.87093789753672%;'
+<colgroup><col id='col1' style='width: 29.51312593963224%;'>
+<col id='col2' style='width: 21.31375043367642%;'>
+<col id='col3' style='width: 21.302185729154623%;'>
+<col id='col4' style='width: 27.87093789753672%;'>
 </colgroup>
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Onderdeel van het ruimtelijk instrument<br/>
 </td>
@@ -91,12 +91,12 @@ In deze optie worden er objectgerichte planteksten beschikbaar gesteld conform h
 In deze optie worden de planteksten niet objectgericht beschikbaar gesteld. Er wordt derhalve geen gebruik gemaakt van IMROPT2012. Dit betekent dat de plan- of besluitregels beschikbaar worden gesteld in HTML of XHTML formaat en de toelichting en/of het beleids-/besluitdocument in HTML, XHTML of PDF formaat. In dit geval is Tabel 2 van toepassing.
 
 <table style='width: 100%;'><caption>Tabel 2 Bronbestanden indien er GEEN gebruik wordt gemaakt van objectgerichte planteksten</caption>
-<colgroup><col id='col1' style='width: 25.04623208506704%;'
-<col id='col2' style='width: 25%;'
-<col id='col3' style='width: 19.995376791493296%;'
-<col id='col4' style='width: 9.997688395746648%;'
-<col id='col5' style='width: 9.997688395746648%;'
-<col id='col6' style='width: 9.96301433194637%;'
+<colgroup><col id='col1' style='width: 25.04623208506704%;'>
+<col id='col2' style='width: 25%;'>
+<col id='col3' style='width: 19.995376791493296%;'>
+<col id='col4' style='width: 9.997688395746648%;'>
+<col id='col5' style='width: 9.997688395746648%;'>
+<col id='col6' style='width: 9.96301433194637%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;' colspan='6'>Plan : bestemmingsplan, inpassingsplan, rijksbestemmingsplan, wijzigingsplan, uitwerkingsplan
 

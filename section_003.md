@@ -6,9 +6,9 @@ In dit hoofdstuk is aangegeven welke bestandstypen moeten worden gehanteerd. Tev
 
 Voor ieder onderdeel worden in Tabel 1 en Tabel 2 eisen gesteld aan de mogelijke bestandstypen. De bestandstypes met toegestane extensies en MIME types worden gegeven in Tabel 3.<br/>
 <table style='width: 100%;'><caption>Tabele 3 Toegestane extensies en MIME types</caption>
-<colgroup><col id='col1' style='width: 24.075358298659268%;'
-<col id='col2' style='width: 33.33333333333333%;'
-<col id='col3' style='width: 42.5913083680074%;'
+<colgroup><col id='col1' style='width: 24.075358298659268%;'>
+<col id='col2' style='width: 33.33333333333333%;'>
+<col id='col3' style='width: 42.5913083680074%;'>
 </colgroup>
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Bestandstype<br/>
 </td>
