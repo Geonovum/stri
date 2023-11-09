@@ -212,33 +212,20 @@ Visie : structuurvisie
 
 Verklaring bij Tabel 1 en Tabel 2:
 
-<table style='width: 100%;'>
-<colgroup><col id='col1' style='width: 20.006926806742094%;'>
-<col id='col2' style='width: 9.997691064419302%;'>
-<col id='col3' style='width: 69.9953821288386%;'>
-</colgroup>
-<tbody valign='top'><tr><td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='1794D885'><i>Bestandstype</i></td>
-<td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;' colspan='2'><p id='5C587CE4'>bestandstype van het onderdeel; voor exacte bestandsformaten zie paragraaf <a href='#4036FA61'>4.2</a>;</td>
-</tr>
-<tr style='background-color: none;'><td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='52CEF424'><i>[idn]</i></td>
-<td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;' colspan='2'><p id='010ABE85'>identificatienummer van het ruimtelijk instrument, zie paragraaf <a href='#647D7DA3'>4.1</a>;</td>
-</tr>
-<tr><td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='50F1394A'><i>[xxx]</i></td>
-<td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;' colspan='2'><p id='2A58FE67'>tekstuele extensie als onderdeel van de bestandsnaam, zie paragraaf <a href='#4036FA61'>4.2</a>;</td>
-</tr>
-<tr><td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='18A4D62D'><i>Multipliciteit</i></td>
-<td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='06B9282F'>1</td>
-<td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='08475085'>het onderdeel komt altijd precies 1 keer voor en is daarmee dus verplicht;</td>
-</tr>
-<tr><td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'></td>
-<td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='278C6F53'>0..1</td>
-<td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='519786E3'>het onderdeel komt 0 of 1 keer voor en is dus optioneel;</td>
-</tr>
-<tr><td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'></td>
-<td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='613350BE'>0..*</td>
-<td align='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: none;'><p id='08AD7E37'>het onderdeel komt 0 of meer keer voor en is dus optioneel.</td>
-</tr>
-</tbody>
-</table>
+<div style='display: inline-block; width: 20%;'><p id='1794D885'><i>Bestandstype</i></div>
+<div style='display: inline-block; width: 80%;'><p id='5C587CE4'>bestandstype van het onderdeel; voor exacte bestandsformaten zie paragraaf <a href='#4036FA61'>4.2</a>;</div>
+<div style='display: inline-block; width: 20%;'><p id='52CEF424'><i>[idn]</i></div>
+<div style='display: inline-block; width: 80%;'><p id='010ABE85'>identificatienummer van het ruimtelijk instrument, zie paragraaf <a href='#647D7DA3'>4.1</a>;</div>
+<div style='display: inline-block; width: 20%;'><p id='50F1394A'><i>[xxx]</i></div>
+<div style='display: inline-block; width: 80%;'><p id='2A58FE67'>tekstuele extensie als onderdeel van de bestandsnaam, zie paragraaf <a href='#4036FA61'>4.2</a>;</div>
+<div style='display: inline-block; width: 20%;'><p id='18A4D62D'><i>Multipliciteit</i></div>
+<div style='display: inline-block; width: 10%;'><p id='06B9282F'>1</div>
+<div style='display: inline-block; width: 70%;'><p id='08475085'>het onderdeel komt altijd precies 1 keer voor en is daarmee dus verplicht;</div>
+<div style='display: inline-block; width: 20%;'></div>
+<div style='display: inline-block; width: 10%;'><p id='278C6F53'>0..1</div>
+<div style='display: inline-block; width: 70%;'><p id='519786E3'>het onderdeel komt 0 of 1 keer voor en is dus optioneel;</div>
+<div style='display: inline-block; width: 20%;'></div>
+<div style='display: inline-block; width: 10%;'><p id='613350BE'>0..*</div>
+<div style='display: inline-block; width: 70%;'><p id='08AD7E37'>het onderdeel komt 0 of meer keer voor en is dus optioneel.</div>
 
 De in Tabel 1 en Tabel 2 gespecificeerde optionele onderdelen kunnen onder voorwaarde verplicht zijn. In het <a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMRO2012)</a> wordt nader aangegeven wanneer dit het geval is.<br/>
