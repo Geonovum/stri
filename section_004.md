@@ -58,8 +58,8 @@ NL\.(IMRO)\.[0-9]{4}\.[A-Za-z0-9]{1,18}<br/>
 
 Voor ieder bronbestand worden in <a href='#T001'>Tabel 1</a> en <a href='#T002'>Tabel 2</a> eisen gesteld aan de bestandsnaam. De reguliere expressie waarmee de naam van een bestand wordt beschreven, is als volgt:
 
-([a-z]{1,2}_)?NL\.(IMRO)\.[0-9]{4}\.[A-Za-z0-9]{1,18}-[A-Za-z0-9]{4}<br/>
-(_[A-Za-z0-9\.]{1,20})?\.(html|htm|xhtml|xml|gml|pdf|png|jpg|jpeg)
+([a-z]{1,2}\_)?NL\.(IMRO)\.[0-9]{4}\.[A-Za-z0-9]{1,18}-[A-Za-z0-9]{4}<br/>
+(\_[A-Za-z0-9\.]{1,20})?\.(html|htm|xhtml|xml|gml|pdf|png|jpg|jpeg)
 
 In <a href='#T005'>Tabel 5</a> worden de onderdelen van deze reguliere expressie nader verklaard.
 
@@ -72,7 +72,7 @@ In <a href='#T005'>Tabel 5</a> worden de onderdelen van deze reguliere expressie
 <td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Betekenis <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>([a-z]{1,2}_)?<br/>
+<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>([a-z]{1,2}\_)?<br/>
 </td>
 <td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>Het type onderdeel als één of twee letters en een underscore _ ; dit onderdeel wordt bij het GML bestand niet toegepast en is daarom optioneel; de beschrijving van de lettercodes wordt nader uitgewerkt bij de bestandsnaamconventies.<br/>
 </td>
