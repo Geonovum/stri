@@ -19,7 +19,7 @@ Voor aanvullende specificaties en organisatorische aspecten rondom elektronische
 
 De informatiebeveiliging van een individueel ruimtelijk instrument is als volgt:
 
-<ol><li>van ieder individueel onderdeel zoals beschreven in Tabel 1 en Tabel 2 wordt een <a href='https://www.w3.org/TR/xmldsig-core/#sec-MessageDigests' target='_blank'>digest</a> berekend. Dit vormt een waarborg voor de integriteit en authenticiteit van de onderdelen en daarmee van het ruimtelijk instrument zelf;</li>
+<ol><li>van ieder individueel onderdeel zoals beschreven in <a href='#T001'>Tabel 1</a> en <a href='#T002'>Tabel 2</a> wordt een <a href='https://www.w3.org/TR/xmldsig-core/#sec-MessageDigests' target='_blank'>digest</a> berekend. Dit vormt een waarborg voor de integriteit en authenticiteit van de onderdelen en daarmee van het ruimtelijk instrument zelf;</li>
 <li>ook over de inhoud van het geleideformulier (exclusief de elektronische handtekening) wordt een digest berekend. Dit vormt de waarborg voor de volledigheid van de onderdelen die samen het ruimtelijk instrument vormen;</li>
 <li>de digests worden middels een elektronische handtekening gewaarmerkt;</li>
 <li>de elektronische handtekening wordt samen met de digests vastgelegd in een XML Signature element (xmldsig) in het geleideformulier. Het geleideformulier bevat daarmee dus alle authenticiteitinformatie over het individuele ruimtelijk instrument.</li>

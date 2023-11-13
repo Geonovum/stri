@@ -4,16 +4,16 @@ Ieder ruimtelijk instrument is opgebouwd uit een samenhangende set onderdelen. I
 
 ## Beschikbaar stellen van bronbestanden {#647D7CD9}
 
-Ieder ruimtelijk instrument is opgebouwd uit een samenhangende set bronbestanden. Voor verschillende typen instrumenten is dit een andere set. Als er gebruik wordt gemaakt van objectgerichte planteksten ontstaat een andere set bronbestanden dan wanneer de teksten zonder gebruikmaking van objectgerichte planteksten beschikbaar worden gesteld. De vereiste bronbestanden per instrument zijn gegeven in Tabel 1 en Tabel 2. Deze tabellen zijn limitatief. Een ruimtelijk instrument bestaat alleen uit de genoemde verplichte en optionele bronbestanden.
+Ieder ruimtelijk instrument is opgebouwd uit een samenhangende set bronbestanden. Voor verschillende typen instrumenten is dit een andere set. Als er gebruik wordt gemaakt van objectgerichte planteksten ontstaat een andere set bronbestanden dan wanneer de teksten zonder gebruikmaking van objectgerichte planteksten beschikbaar worden gesteld. De vereiste bronbestanden per instrument zijn gegeven in <a href='#T001'>Tabel 1</a> en <a href='#T002'>Tabel 2</a>. Deze tabellen zijn limitatief. Een ruimtelijk instrument bestaat alleen uit de genoemde verplichte en optionele bronbestanden.
 
 Burgemeester en wethouders, gedeputeerde staten en de verantwoordelijke minister of ministers (hierna aangeduid als bronhouder) stellen de geautoriseerde bronbestanden beschikbaar aan een ieder. Bij iedere beschikbaarstelling wordt gekozen uit één van de volgende twee opties:<br/>
 Optie 1 : beschikbaar stellen <i>met</i> gebruikmaking van IMROPT2012, zie paragraaf <a href='#647D7CE0'>2.2</a>;<br/>
 Optie 2 : beschikbaar stellen zonder gebruikmaking van IMROPT2012, zie paragraaf <a href='#647D7D0F'>2.3</a>.<br/>
 ## Beschikbaar stellen met gebruikmaking van objectgerichte planteksten {#647D7CE0}
 
-In deze optie worden er objectgerichte planteksten beschikbaar gesteld conform het <a href='https://docs.geostandaarden.nl/ro/imropt' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMROPT2012)</a>. Dit betekent dat in ieder geval de regels, de toelichting en/of het beleids-/besluitdocument beschikbaar worden gesteld in XML formaat. Bijlagen kunnen ofwel in dit zelfde XML formaat beschikbaar worden gesteld, ofwel in separate bronbestanden. Bij gebruikmaking van objectgerichte planteksten is Tabel 1 van toepassing.
+In deze optie worden er objectgerichte planteksten beschikbaar gesteld conform het <a href='https://docs.geostandaarden.nl/ro/imropt' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMROPT2012)</a>. Dit betekent dat in ieder geval de regels, de toelichting en/of het beleids-/besluitdocument beschikbaar worden gesteld in XML formaat. Bijlagen kunnen ofwel in dit zelfde XML formaat beschikbaar worden gesteld, ofwel in separate bronbestanden. Bij gebruikmaking van objectgerichte planteksten is <a href='#T001'>Tabel 1</a> van toepassing.
 
-<table style='width: 100%;'><caption>Tabel 1 Bronbestanden indien er WEL gebruik wordt gemaakt van objectgerichte planteksten</caption>
+<table style='width: 100%;' id='T001'><caption>Tabel 1 Bronbestanden indien er WEL gebruik wordt gemaakt van objectgerichte planteksten</caption>
 <colgroup><col id='col1' style='width: 29.51312593963224%;'>
 <col id='col2' style='width: 21.31375043367642%;'>
 <col id='col3' style='width: 21.302185729154623%;'>
@@ -88,9 +88,9 @@ In deze optie worden er objectgerichte planteksten beschikbaar gesteld conform h
 
 ## Beschikbaar stellen zonder gebruikmaking van objectgerichte planteksten {#647D7D0F}
 
-In deze optie worden de planteksten niet objectgericht beschikbaar gesteld. Er wordt derhalve geen gebruik gemaakt van IMROPT2012. Dit betekent dat de plan- of besluitregels beschikbaar worden gesteld in HTML of XHTML formaat en de toelichting en/of het beleids-/besluitdocument in HTML, XHTML of PDF formaat. In dit geval is Tabel 2 van toepassing.
+In deze optie worden de planteksten niet objectgericht beschikbaar gesteld. Er wordt derhalve geen gebruik gemaakt van IMROPT2012. Dit betekent dat de plan- of besluitregels beschikbaar worden gesteld in HTML of XHTML formaat en de toelichting en/of het beleids-/besluitdocument in HTML, XHTML of PDF formaat. In dit geval is <a href='#T002'>Tabel 2</a> van toepassing.
 
-<table style='width: 100%;'><caption>Tabel 2 Bronbestanden indien er GEEN gebruik wordt gemaakt van objectgerichte planteksten</caption>
+<table style='width: 100%;' id='T002'><caption>Tabel 2 Bronbestanden indien er GEEN gebruik wordt gemaakt van objectgerichte planteksten</caption>
 <colgroup><col id='col1' style='width: 25.04623208506704%;'>
 <col id='col2' style='width: 25%;'>
 <col id='col3' style='width: 19.995376791493296%;'>
@@ -210,7 +210,7 @@ Visie : structuurvisie
 </tbody>
 </table>
 
-Verklaring bij Tabel 1 en Tabel 2:
+Verklaring bij <a href='#T001'>Tabel 1</a> en <a href='#T002'>Tabel 2</a>:
 
 <div style='display: flex; flex-direction: column;'>
 <div style='display: flex; flex-direction: row'>
@@ -242,4 +242,4 @@ Verklaring bij Tabel 1 en Tabel 2:
 </div>
 </div>
 
-De in Tabel 1 en Tabel 2 gespecificeerde optionele onderdelen kunnen onder voorwaarde verplicht zijn. In het <a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMRO2012)</a> wordt nader aangegeven wanneer dit het geval is.<br/>
+De in <a href='#T001'>Tabel 1</a> en <a href='#T002'>Tabel 2</a> gespecificeerde optionele onderdelen kunnen onder voorwaarde verplicht zijn. In het <a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'> Informatiemodel Ruimtelijke Ordening Planteksten (IMRO2012)</a> wordt nader aangegeven wanneer dit het geval is.<br/>

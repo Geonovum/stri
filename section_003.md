@@ -4,8 +4,8 @@ In dit hoofdstuk is aangegeven welke bestandstypen moeten worden gehanteerd. Tev
 
 ## Bestandsextensies en toegestane formaten {#647D7D68}
 
-Voor ieder onderdeel worden in Tabel 1 en Tabel 2 eisen gesteld aan de mogelijke bestandstypen. De bestandstypes met toegestane extensies en MIME types worden gegeven in Tabel 3.<br/>
-<table style='width: 100%;'><caption>Tabele 3 Toegestane extensies en MIME types</caption>
+Voor ieder onderdeel worden in <a href='#T001'>Tabel 1</a> en <a href='#T002'>Tabel 2</a> eisen gesteld aan de mogelijke bestandstypen. De bestandstypes met toegestane extensies en MIME types worden gegeven in <a href='#T003'>Tabel 3</a>.<br/>
+<table style='width: 100%;' id='T003'><caption>Tabele 3 Toegestane extensies en MIME types</caption>
 <colgroup><col id='col1' style='width: 24.075358298659268%;'>
 <col id='col2' style='width: 33.33333333333333%;'>
 <col id='col3' style='width: 42.5913083680074%;'>
@@ -69,7 +69,7 @@ Voor ieder onderdeel worden in Tabel 1 en Tabel 2 eisen gesteld aan de mogelijke
 </tbody>
 </table>
 
-Ten gevolge van extern beleid zijn er voor ieder van de in Tabel 3 genoemde bestandstypes veelal aanvullende specificaties van toepassing met betrekking tot de exact toegestane bestandsformaten. De specificaties zijn niet opgenomen in deze standaard, omdat deze aan wijzigingen onderhevig zijn die een andere dynamiek kunnen hebben dan de voorliggende standaard.<br/>
+Ten gevolge van extern beleid zijn er voor ieder van de in <a href='#T003'>Tabel 3</a> genoemde bestandstypes veelal aanvullende specificaties van toepassing met betrekking tot de exact toegestane bestandsformaten. De specificaties zijn niet opgenomen in deze standaard, omdat deze aan wijzigingen onderhevig zijn die een andere dynamiek kunnen hebben dan de voorliggende standaard.<br/>
 ## Gebruik van HTML en XHTML {#647D7D97}
 
 Een aantal onderdelen van de verschillende ruimtelijke instrumenten kan beschikbaar gesteld worden in HTML of XHTML formaat. Bij het gebruik van deze formaten is een aantal aanvullende regels van kracht:

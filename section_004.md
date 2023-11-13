@@ -8,8 +8,8 @@ Ieder ruimtelijk instrument kent een eigen identificatienummer (idn). Het idn is
 
 NL\.(IMRO\.[0-9]{4}\.[A-Za-z0-9]{1,18}-[A-Za-z0-9]{4}
 
-In Tabel 4 worden de onderdelen van deze reguliere expressie nader verklaard.<br/>
-<table style='width: 100%;'><caption>Tabel 4 Onderdelen van het identificatienummer</caption>
+In <a href='#T004'>Tabel 4</a> worden de onderdelen van deze reguliere expressie nader verklaard.<br/>
+<table style='width: 100%;' id='T004'><caption>Tabel 4 Onderdelen van het identificatienummer</caption>
 <colgroup><col id='col1' style='width: 22.58504949368529%;'>
 <col id='col2' style='width: 77.41495050631471%;'>
 </colgroup>
@@ -56,14 +56,14 @@ Het gedeelte van het identificatienummer tot aan het liggend streepje wordt het 
 NL\.(IMRO)\.[0-9]{4}\.[A-Za-z0-9]{1,18}<br/>
 ## Bestandsnaam vereisten {#4036FA61}
 
-Voor ieder bronbestand worden in Tabel 1 en Tabel 2 eisen gesteld aan de bestandsnaam. De reguliere expressie waarmee de naam van een bestand wordt beschreven, is als volgt:
+Voor ieder bronbestand worden in <a href='#T001'>Tabel 1</a> en <a href='#T002'>Tabel 2</a> eisen gesteld aan de bestandsnaam. De reguliere expressie waarmee de naam van een bestand wordt beschreven, is als volgt:
 
 ([a-z]{1,2}_)?NL\.(IMRO)\.[0-9]{4}\.[A-Za-z0-9]{1,18}-[A-Za-z0-9]{4}<br/>
 (_[A-Za-z0-9\.]{1,20})?\.(html|htm|xhtml|xml|gml|pdf|png|jpg|jpeg)
 
-In Tabel 5 worden de onderdelen van deze reguliere expressie nader verklaard.
+In <a href='#T005'>Tabel 5</a> worden de onderdelen van deze reguliere expressie nader verklaard.
 
-<table style='width: 100%;'><caption>Tabel 5 Onderdelen van de bestandsnaam vereisten</caption>
+<table style='width: 100%;' id='T005'><caption>Tabel 5 Onderdelen van de bestandsnaam vereisten</caption>
 <colgroup><col id='col1' style='width: 43.73648879280919%;'>
 <col id='col2' style='width: 56.26351120719081%;'>
 </colgroup>

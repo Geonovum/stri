@@ -4,7 +4,7 @@ De bronbestanden van ieder ruimtelijk instrument moeten beschikbaar worden geste
 
 ## Eisen aan de beschikbaarstelling {#42F69F15}
 
-Ieder ruimtelijk instrument dat is vastgelegd in het Manifest van een bronhouder dient door de bronhouder in zijn geheel beschikbaar te zijn gesteld. Dit betekent dat alle bronbestanden zoals genoemd in Tabel 1 en Tabel 2 beschikbaar zijn via het internet. Deze beschikbaarstelling moet voldoen aan een aantal eisen:
+Ieder ruimtelijk instrument dat is vastgelegd in het Manifest van een bronhouder dient door de bronhouder in zijn geheel beschikbaar te zijn gesteld. Dit betekent dat alle bronbestanden zoals genoemd in <a href='#T001'>Tabel 1</a> en <a href='#T002'>Tabel 2</a> beschikbaar zijn via het internet. Deze beschikbaarstelling moet voldoen aan een aantal eisen:
 
 <ul><li>Publicatie van de manifesten en plannen door bronhouders van ruimtelijke plannen via standaard poort 443 voor HTTPS verkeer;</li>
 <li>Het gebruik van een beveiligde <a href='https://datatracker.ietf.org/doc/html/rfc8446' target='_blank'>HTTPS verbinding via TLS</a> is wettelijk verplicht door de <a href='https://wetten.overheid.nl/BWBR0048156' target='_blank'>Wet digitale overheid</a>. Gebruik hiervoor de richtlijnen van het <a href='https://www.ncsc.nl/onderwerpen/verbindingsbeveiliging/documenten/publicaties/2021/januari/19/ict-beveiligingsrichtlijnen-voor-transport-layer-security-2.1' target='_blank'>NCSC</a>;</li>
@@ -28,7 +28,7 @@ Hoewel Manifest en geleideformulier beide een Signature element kennen, heeft di
 
 Het Manifest is als volgt opgebouwd:
 
-<table style='width: 100%;'><caption></caption>
+<table style='width: 100%;' id='T006'><caption></caption>
 <colgroup><col id='col1' style='width: 25.860889395667048%;'>
 <col id='col2' style='width: 6.465222348916762%;'>
 <col id='col3' style='width: 67.67388825541619%;'>
@@ -87,7 +87,7 @@ Het Manifest is als volgt opgebouwd:
 
 Binnen ieder &lt;Dossier&gt; element worden de volgende gegevens opgenomen:
 
-<table style='width: 100%;'><caption></caption>
+<table style='width: 100%;' id='T007'><caption></caption>
 <colgroup><col id='col1' style='width: 25.860889395667048%;'>
 <col id='col2' style='width: 6.465222348916762%;'>
 <col id='col3' style='width: 67.67388825541619%;'>
@@ -143,7 +143,7 @@ Binnen ieder &lt;Dossier&gt; element worden de volgende gegevens opgenomen:
 
 Bij ieder &lt;Plan&gt; element in het Dossier worden de volgende gegevens over het ruimtelijk instrument opgenomen:
 
-<table style='width: 100%;'><caption></caption>
+<table style='width: 100%;' id='T008'><caption></caption>
 <colgroup><col id='col1' style='width: 25.860889395667048%;'>
 <col id='col2' style='width: 6.465222348916762%;'>
 <col id='col3' style='width: 67.67388825541619%;'>
@@ -198,7 +198,7 @@ De exacte opbouw van het XML Manifest is vastgelegd in een XML Schema dat naast 
 
 Het geleideformulier is opgebouwd zoals weergegeven met de tabellen in deze paragraaf.
 
-<table style='width: 100%;'><caption></caption>
+<table style='width: 100%;' id='T009'><caption></caption>
 <colgroup><col id='col1' style='width: 25.860889395667048%;'>
 <col id='col2' style='width: 6.465222348916762%;'>
 <col id='col3' style='width: 67.67388825541619%;'>
@@ -257,7 +257,7 @@ Het geleideformulier is opgebouwd zoals weergegeven met de tabellen in deze para
 
 In het &lt;Plan&gt; element in het Geleideformulier worden de volgende gegevens over het ruimtelijk instrument opgenomen:
 
-<table style='width: 100%;'><caption></caption>
+<table style='width: 100%;' id='T010'><caption></caption>
 <colgroup><col id='col1' style='width: 25.860889395667048%;'>
 <col id='col2' style='width: 6.465222348916762%;'>
 <col id='col3' style='width: 67.67388825541619%;'>
@@ -309,7 +309,7 @@ In het &lt;Plan&gt; element in het Geleideformulier worden de volgende gegevens 
 
 In het &lt;Eigenschappen&gt; element in het Geleideformulier worden de volgende gegevens over het ruimtelijk instrument opgenomen:
 
-<table style='width: 100%;'><caption></caption>
+<table style='width: 100%;' id='T011'><caption></caption>
 <colgroup><col id='col1' style='width: 25.860889395667048%;'>
 <col id='col2' style='width: 6.465222348916762%;'>
 <col id='col3' style='width: 67.67388825541619%;'>
@@ -383,7 +383,7 @@ De waarde is gelijk aan de status in het IMRO GML bestand.<br/>
 
 In het &lt;Onderdelen&gt; element in het Geleideformulier wordt de volgende informatie over de beschikbaar gestelde bronbestanden opgenomen:
 
-<table style='width: 100%;'><caption></caption>
+<table style='width: 100%;' id='T012'><caption></caption>
 <colgroup><col id='col1' style='width: 25.860889395667048%;'>
 <col id='col2' style='width: 6.465222348916762%;'>
 <col id='col3' style='width: 67.67388825541619%;'>
@@ -477,7 +477,7 @@ In het &lt;Onderdelen&gt; element in het Geleideformulier wordt de volgende info
 
 In het &lt;Supplementen&gt; element in het Geleideformulier worden de volgende gegevens over mogelijke supplementen opgenomen:
 
-<table style='width: 100%;'><caption></caption>
+<table style='width: 100%;' id='T013'><caption></caption>
 <colgroup><col id='col1' style='width: 25.860889395667048%;'>
 <col id='col2' style='width: 6.465222348916762%;'>
 <col id='col3' style='width: 67.67388825541619%;'>
