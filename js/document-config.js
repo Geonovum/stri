@@ -29,12 +29,7 @@ var documentConfig =
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     },
-    {
-      name: "Monique van Scherpenzeel",
-      company: "Geonovum",
-      companyURL: "https://www.geonovum.nl/"
-    }
-  ],
+   ],
   editors: [
     {
       name: "Monique van Scherpenzeel",
