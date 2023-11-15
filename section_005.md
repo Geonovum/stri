@@ -110,7 +110,7 @@ Binnen ieder &lt;Dossier&gt; element worden de volgende gegevens opgenomen:
 </td>
 <td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>het dossiernummer van het desbetreffende Dossier conform het format zoals gegeven in Hoofdstuk 5 van de STRI2012.<br/>
+<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>het dossiernummer van het desbetreffende Dossier conform het format zoals gegeven in Hoofdstuk <a href='#647D7DA1'>4</a> van de STRI2012.<br/>
 </td>
 </tr>
 <tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>status<br/>
@@ -166,7 +166,7 @@ Bij ieder &lt;Plan&gt; element in het Dossier worden de volgende gegevens over h
 </td>
 <td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>het idn van het desbetreffende ruimtelijk instrument conform het format zoals gegeven in Hoofdstuk 5 van de STRI2012.<br/>
+<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>het idn van het desbetreffende ruimtelijk instrument conform het format zoals gegeven in Hoofdstuk <a href='#647D7DA1'>4</a> van de STRI2012.<br/>
 </td>
 </tr>
 <tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>naam<br/>

@@ -94,7 +94,7 @@ In <a href='#T005'>Tabel 5</a> worden de onderdelen van deze reguliere expressie
 </tr>
 <tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>(html|htm|xhtml|xml|gml|pdf|png|jpg|jpeg)<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>De mogelijke bestandsextensies; de exacte relaties tussen onderdelen en bestandsformaten is nader uitgewerkt in paragraaf <a href='#4036FA61'>4.2</a>.<br/>
+<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>De mogelijke bestandsextensies; de exacte relaties tussen onderdelen en bestandsformaten is nader uitgewerkt in paragraaf <a href='#647D7CE0'>2.2</a> (met IMROPT) en <a href='#647D7D0F'>2.3</a>(zonder IMROPT).<br/>
 </td>
 </tr>
 </tbody>
