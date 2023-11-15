@@ -19,7 +19,7 @@ In deze optie worden er objectgerichte planteksten beschikbaar gesteld conform h
 <col id='col3' style='width: 21.302185729154623%;'>
 <col id='col4' style='width: 27.87093789753672%;'>
 </colgroup>
-<tbody valign='top'><tr><td align='left'>Onderdeel van het ruimtelijk instrument<br/>
+<thead valign='top'><tr><td align='left'>Onderdeel van het ruimtelijk instrument<br/>
 </td>
 <td align='left'>Naamconventie 
 (excl. extensie)<br/>
@@ -29,6 +29,8 @@ In deze optie worden er objectgerichte planteksten beschikbaar gesteld conform h
 <td align='center'>Multipliciteit<br/>
 </td>
 </tr>
+</thead>
+<tbody valign='top'>
 <tr><td align='left'>IMRO<br/>
 </td>
 <td align='left'> [idn]<br/>
