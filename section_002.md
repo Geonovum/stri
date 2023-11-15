@@ -19,68 +19,68 @@ In deze optie worden er objectgerichte planteksten beschikbaar gesteld conform h
 <col id='col3' style='width: 21.302185729154623%;'>
 <col id='col4' style='width: 27.87093789753672%;'>
 </colgroup>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Onderdeel van het ruimtelijk instrument<br/>
+<tbody valign='top'><tr><td align='left'>Onderdeel van het ruimtelijk instrument<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Naamconventie 
+<td align='left'>Naamconventie 
 (excl. extensie)<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Bestandstype<br/>
+<td align='left'>Bestandstype<br/>
 </td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Multipliciteit<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>IMRO<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'> [idn]<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>GML<br/>
-</td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>1<br/>
+<td align='center'>Multipliciteit<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>Planteksten<br/>
+<tr><td align='left'>IMRO<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>pt_[idn]<br/>
+<td align='left'> [idn]<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>XML<br/>
+<td align='left'>GML<br/>
 </td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>1<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>Vaststellingsbesluit<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>vb_[idn]<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>HTML, XHTML of PDF<br/>
-</td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>0..1<br/>
+<td align='center'>1<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>Bijlage<br/>
+<tr><td align='left'>Planteksten<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'> b_[idn]_[xxx]<br/>
+<td align='left'>pt_[idn]<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>HTML, XHTML of PDF<br/>
+<td align='left'>XML<br/>
 </td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>0..*<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>Illustratie<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'> i_[idn]_[xxx]<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>JPEG, PNG of PDF<br/>
-</td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>0..*<br/>
+<td align='center'>1<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>Geleideformulier<br/>
+<tr><td align='left'>Vaststellingsbesluit<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'> g_[idn]<br/>
+<td align='left'>vb_[idn]<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>XML<br/>
+<td align='left'>HTML, XHTML of PDF<br/>
 </td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>1<br/>
+<td align='center'>0..1<br/>
+</td>
+</tr>
+<tr><td align='left'>Bijlage<br/>
+</td>
+<td align='left'> b_[idn]_[xxx]<br/>
+</td>
+<td align='left'>HTML, XHTML of PDF<br/>
+</td>
+<td align='center'>0..*<br/>
+</td>
+</tr>
+<tr><td align='left'>Illustratie<br/>
+</td>
+<td align='left'> i_[idn]_[xxx]<br/>
+</td>
+<td align='left'>JPEG, PNG of PDF<br/>
+</td>
+<td align='center'>0..*<br/>
+</td>
+</tr>
+<tr><td align='left'>Geleideformulier<br/>
+</td>
+<td align='left'> g_[idn]<br/>
+</td>
+<td align='left'>XML<br/>
+</td>
+<td align='center'>1<br/>
 </td>
 </tr>
 </tbody>
@@ -98,7 +98,7 @@ In deze optie worden de planteksten niet objectgericht beschikbaar gesteld. Er w
 <col id='col5' style='width: 9.997688395746648%;'>
 <col id='col6' style='width: 9.96301433194637%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;' colspan='6'>Plan : bestemmingsplan, inpassingsplan, rijksbestemmingsplan, wijzigingsplan, uitwerkingsplan
+<thead valign='top'><tr><th align='left' colspan='6'>Plan : bestemmingsplan, inpassingsplan, rijksbestemmingsplan, wijzigingsplan, uitwerkingsplan
 
 Besluit : aanwijzingsbesluit, beheersverordening, amvb, ministeriële regeling, provinciale verordening, reactieve aanwijzing, voorbereidingsbesluit, omgevingsvergunning, exploitatieplan, gerechtelijke uitspraak
 
@@ -106,105 +106,105 @@ Visie : structuurvisie
 
 </th>
 </tr>
-<tr><th align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;' rowspan='2'>Onderdeel van het ruimtelijk instrument<br/>
+<tr><th align='left' rowspan='2'>Onderdeel van het ruimtelijk instrument<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;' rowspan='2'>Naamconventie (excl. extensie)<br/>
+<th align='left' rowspan='2'>Naamconventie (excl. extensie)<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;' rowspan='2'>Bestandstype<br/>
+<th align='left' rowspan='2'>Bestandstype<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;' colspan='3'>Multipliciteit<br/>
+<th align='left' colspan='3'>Multipliciteit<br/>
 </th>
 </tr>
-<tr><th align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Plan<br/>
+<tr><th align='left'>Plan<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Besluit<br/>
+<th align='left'>Besluit<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: #4F81BD;'>Visie<br/>
+<th align='left'>Visie<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>IMRO<br/>
+<tbody valign='top'><tr><td align='left'>IMRO<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'> [idn]<br/>
+<td align='left'> [idn]<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>GML<br/>
+<td align='left'>GML<br/>
 </td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;' colspan='3'>1<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>Regels<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'> r_[idn]<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>HTML of XHTML<br/>
-</td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>1<br/>
-</td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>0..1<br/>
-</td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>0<br/>
+<td align='center' colspan='3'>1<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>Beleids-/Besluitdocument<br/>
+<tr><td align='left'>Regels<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'> d_[idn]<br/>
+<td align='left'> r_[idn]<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>HTML, XHTML of PDF<br/>
+<td align='left'>HTML of XHTML<br/>
 </td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>0<br/>
+<td align='center'>1<br/>
 </td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>0..1<br/>
+<td align='center'>0..1<br/>
 </td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>1<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>Toelichting<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'> t_[idn]<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>HTML, XHTML of PDF<br/>
-</td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>1<br/>
-</td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>0..1<br/>
-</td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>0..1<br/>
+<td align='center'>0<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>Vaststellingsbesluit<br/>
+<tr><td align='left'>Beleids-/Besluitdocument<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>vb_[idn]<br/>
+<td align='left'> d_[idn]<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>HTML, XHTML of PDF<br/>
+<td align='left'>HTML, XHTML of PDF<br/>
 </td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;' colspan='3'>0..1<br/>
+<td align='center'>0<br/>
 </td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>Bijlage<br/>
+<td align='center'>0..1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>b_[idn]_[xxx]<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>HTML, XHTML of PDF<br/>
-</td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;' colspan='3'>0..*<br/>
+<td align='center'>1<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>Illustratie<br/>
+<tr><td align='left'>Toelichting<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>i_[idn]_[xxx]<br/>
+<td align='left'> t_[idn]<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>JPEG, PNG of PDF<br/>
+<td align='left'>HTML, XHTML of PDF<br/>
 </td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;' colspan='3'>0..*<br/>
+<td align='center'>1<br/>
+</td>
+<td align='center'>0..1<br/>
+</td>
+<td align='center'>0..1<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>Geleideformulier<br/>
+<tr><td align='left'>Vaststellingsbesluit<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>g_[idn]<br/>
+<td align='left'>vb_[idn]<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;'>XML<br/>
+<td align='left'>HTML, XHTML of PDF<br/>
 </td>
-<td align='center' style='border-top: 0.5pt solid #95B3D7; border-left: 0.5pt solid #95B3D7; border-bottom: 0.5pt solid #95B3D7; border-right: 0.5pt solid #95B3D7; background-color: none;' colspan='3'>1<br/>
+<td align='center' colspan='3'>0..1<br/>
+</td>
+</tr>
+<tr><td align='left'>Bijlage<br/>
+</td>
+<td align='left'>b_[idn]_[xxx]<br/>
+</td>
+<td align='left'>HTML, XHTML of PDF<br/>
+</td>
+<td align='center' colspan='3'>0..*<br/>
+</td>
+</tr>
+<tr><td align='left'>Illustratie<br/>
+</td>
+<td align='left'>i_[idn]_[xxx]<br/>
+</td>
+<td align='left'>JPEG, PNG of PDF<br/>
+</td>
+<td align='center' colspan='3'>0..*<br/>
+</td>
+</tr>
+<tr><td align='left'>Geleideformulier<br/>
+</td>
+<td align='left'>g_[idn]<br/>
+</td>
+<td align='left'>XML<br/>
+</td>
+<td align='center' colspan='3'>1<br/>
 </td>
 </tr>
 </tbody>
