@@ -1,7 +1,7 @@
 var documentConfig =
 {
   title: "Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012) versie 2.1.0",
-  subtitle: "Bijlage 6 behorende bij de Regeling standaarden ruimtelijke ordening",
+  subtitle: "Geonovum norm",
   shortName: "stri",
   pubDomain: "ro",
   specStatus: "wv",
