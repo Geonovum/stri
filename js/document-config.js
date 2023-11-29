@@ -3,7 +3,7 @@ var documentConfig =
   title: "Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012) versie 2.1.0",
   shortName: "stri",
   pubDomain: "ro",
-  specStatus: "dv",
+  specStatus: "def",
   specType: "no",
   license: "cc-by-nd",
   latestVersion: [
