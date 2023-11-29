@@ -1,16 +1,15 @@
 var documentConfig =
 {
   title: "Standaard Toegankelijkheid Ruimtelijke Instrumenten (STRI2012) versie 2.1.0",
-  subtitle: "Geonovum norm",
   shortName: "stri",
   pubDomain: "ro",
-  specStatus: "wv",
+  specStatus: "dv",
   specType: "no",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/stri/"
   ],
-  publishDate: "2023-12-01",
+  publishDate: "2023-11-29",
   publishVersion: "2.1.0",
   thisVersion: [
     "https://geonovum.github.io/stri/"
