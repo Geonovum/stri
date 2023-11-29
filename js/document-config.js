@@ -4,7 +4,7 @@ var documentConfig =
   shortName: "stri",
   pubDomain: "ro",
   specStatus: "def",
-  specType: "no",
+  specType: "st",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/stri/"
