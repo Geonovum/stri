@@ -12,7 +12,7 @@ var documentConfig =
   publishDate: "2023-11-29",
   publishVersion: "2.1.0",
   thisVersion: [
-    "https://geonovum.github.io/stri/"
+    "https://docs.geostandaarden.nl/ro/def-st-stri-20231129/"
   ],
   previousPublishDate: "2014-10-06",
   previousPublishVersion: "2.0",
