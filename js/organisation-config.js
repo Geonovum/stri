@@ -80,16 +80,16 @@ var organisationConfig =
       image: "https://tools.geostandaarden.nl/publication/organisation/geonovum/cc-by-nd.svg"
     }
   },
-  nl_organisationStylesURL: "https://tools.geostandaarden.nl/publication/domain/geen/",
+  nl_organisationStylesURL: "https://tools.geostandaarden.nl/publication/domain/ro/",
   logos: [
     {
-      src: "https://tools.geostandaarden.nl/publication/domain/geen/Geonovum.svg",
+      src: "https://tools.geostandaarden.nl/publication/domain/ro/Geonovum.svg",
       alt: "Geonovum",
       id: "geonovum",
       height: "67",
       width: "132",
       url: "https://www.geonovum.nl/geo-standaarden",
-      ico: "https://tools.geostandaarden.nl/publication/domain/geen/Geonovum.ico"
+      ico: "https://tools.geostandaarden.nl/publication/domain/ro/Geonovum.ico"
     }
   ],
   useLogo: true,
